@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm a web developer based in Russia. I really like development with React.
+I'm a web developer based in Georgia. I really like development with React.
 
-I'm currently working on an private app, which helps to make documents for bankruptcy proceeding and also you can choose trustee in bankruptcy, who will help you with bankruptcy proceeding.
+I'm currently working in Brave Developers on Movingo project.
 
-In my spare time I'm working on an ui-kit using React. 
+In my spare time I'm improving my skills in Blender, it's my hobby.
 <!--
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Rue-pro.visitor-badge)
 -->
