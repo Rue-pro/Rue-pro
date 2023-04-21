@@ -2,7 +2,7 @@
 
 I'm a web developer based in Georgia. I really like development with React.
 
-I'm currently working in Brave Developers on Movingo project.
+I'm currently looking for job and at the same time I am doing Youtube automation.
 
 In my spare time I'm improving my skills in Blender, it's my hobby.
 <!--
