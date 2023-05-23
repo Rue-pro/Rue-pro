@@ -2,9 +2,8 @@
 
 I'm a web developer based in Georgia. I really like development with React.
 
-I'm currently looking for job and at the same time I am doing Youtube automation.
+I'm currently looking for job and at the same time I am doing Youtube automation with Python.
 
-In my spare time I'm improving my skills in Blender, it's my hobby.
 <!--
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Rue-pro.visitor-badge)
 -->
