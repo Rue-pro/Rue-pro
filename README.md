@@ -2,7 +2,9 @@
 
 I'm a web developer based in Georgia. I really like development with React.
 
-I'm currently looking for job and at the same time I am doing Youtube automation with Python.
+Interested in:
+1. Learning languages
+2. Youtube automation
 
 <!--
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Rue-pro.visitor-badge)
